@@ -1,10 +1,6 @@
 //
 //  SplayTree.h
 //  SplayTree
-//
-//  Created by Wuyixin on 2017/6/30.
-//  Copyright © 2017年 Coding365. All rights reserved.
-//
  
 #ifndef SplayTree_h
 #define SplayTree_h
